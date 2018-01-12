@@ -32,6 +32,7 @@ final class Versions
   'psr/log' => '1.0.2@4ebe3a8bf773a19edfe0a84b6585ba3d401b724d',
   'psr/simple-cache' => '1.0.0@753fa598e8f3b9966c886fe13f370baa45ef0e24',
   'sensio/framework-extra-bundle' => 'v5.1.3@0696496cb3e2d23add645d424699e5c723238aad',
+  'symfony/apache-pack' => 'v1.0.1@3aa5818d73ad2551281fc58a75afd9ca82622e6c',
   'symfony/cache' => 'v4.0.3@1ebe207de664355b1699d35b12b0563c38a47b4e',
   'symfony/config' => 'v4.0.3@0e86d267db0851cf55f339c97df00d693fe8592f',
   'symfony/console' => 'v4.0.3@fe0e69d7162cba0885791cf7eea5f0d7bc0f897e',
@@ -62,7 +63,7 @@ final class Versions
   'symfony/stopwatch' => 'v4.0.3@d52321f0e2b596bd03b5d1dd6eebe71caa925704',
   'symfony/var-dumper' => 'v4.0.3@883f6109a2069773e088c08626b87a3d3d61c566',
   'symfony/web-profiler-bundle' => 'v4.0.3@20a04d0672d7f538d1c06ded7bf5990f23c089aa',
-  '__root__' => 'dev-master@84026bdb57e3629bfb5aaaa050b54e3bdda93d28',
+  '__root__' => 'dev-master@953d247fc073da9eb8d8261dbd9d29c8f35bbfac',
 );
 
     private function __construct()
